@@ -1,9 +1,16 @@
 # cs408-a1
+progress video
+
+https://user-images.githubusercontent.com/67968545/193092726-a6b8a3e6-4db0-4391-a872-7e87232553b9.mp4
+
+you can find complete scene in cs408-a1/Assets/cs408 progress.unity
+
 simple testing video: https://youtu.be/jB4dvCUo3eg
 
 Creative feature :Create a camera following scirpt for the object.
 control command：
-P --play the particle animation
+WASD or arrow control 
+P --play the particle animation (auto play)
 
 O --pause the animation
 
@@ -23,3 +30,8 @@ K --increase the particle size
 
 L --decrease the particle size
 
+camera.cs
+
+move.cs
+
+ChangeParticleSystemData.cs
