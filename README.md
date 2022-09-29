@@ -13,8 +13,11 @@ https://user-images.githubusercontent.com/67968545/193097357-e9ef5614-a878-4619-
 simple testing video: https://youtu.be/jB4dvCUo3eg
 
 Creative feature :Create a camera following scirpt for the object.
+
 control command：
-WASD or arrow control 
+
+WASD or arrow -- control move
+
 P --play the particle animation (auto play)
 
 O --pause the animation
