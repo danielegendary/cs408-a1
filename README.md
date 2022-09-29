@@ -1,5 +1,5 @@
 # cs408-a1
-simeple video: https://youtu.be/jB4dvCUo3eg
+simple testing video: https://youtu.be/jB4dvCUo3eg
 
 Creative feature :Create a camera following scirpt for the object.
 control command：
