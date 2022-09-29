@@ -40,6 +40,12 @@ L --decrease the particle size
 
 camera.cs
 
+-control the camera follow the object with a certain angle
+
 move.cs
 
+-control the object move and rotation
+
 ChangeParticleSystemData.cs
+
+-control the particle system to make proper change with user input
