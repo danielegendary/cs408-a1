@@ -1,4 +1,11 @@
 # cs408-a1
+To run this project scene. im afraid u have to download the unity engine and run it in 2021.3.9f1 version.
+
+![image](https://user-images.githubusercontent.com/67968545/193170599-a9d74362-fb59-4326-9699-aea33ac8e26c.png)
+
+
+I was plan to make it in webGL form, but it cant run properly in my brower.
+
 progress video
 
 https://user-images.githubusercontent.com/67968545/193092726-a6b8a3e6-4db0-4391-a872-7e87232553b9.mp4
